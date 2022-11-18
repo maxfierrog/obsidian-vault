@@ -7,7 +7,7 @@
 Find solutions to $ay'' + by' + cy = g(x)$. This is the form of a second order linear differential equation. It is homogenous in the case where $g(x)$ is the zero-function, which means we are finding solutions to $ay'' + by' + cy = 0$. 
 
 ---
-
+ 
 ### Linear Independence
 
 Two functions, $f(x)$ and $g(x)$, are linearly independent only when $f(x) \neq c_1 \cdot g(x) \wedge g(x) \neq c_2 \cdot f(x)$ for any $c_1, c_2$.    
