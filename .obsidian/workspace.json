@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3e5df6c9882af6d",
+        "id": "e944013a5406b6a1",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5cbd55b346361e",
+            "id": "80f2d249d3efa2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md",
+                "file": "1. Diary/2022-11-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#diary",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.50312423706055
+    "width": 378.50312423706055
   },
   "right": {
     "id": "baad6494ab93bc9b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md",
+                "file": "1. Diary/2022-11-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md",
+                "file": "1. Diary/2022-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md"
+                "file": "1. Diary/2022-11-17.md"
               }
             }
           },
@@ -144,12 +144,12 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "2b5cbd55b346361e",
+  "active": "80f2d249d3efa2fc",
   "lastOpenFiles": [
     "1. Diary/2022-11-17.md",
-    "1. Diary/2022-11-16.md",
-    "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md",
     "Mathematics/Differential Equations/Homogenous Second Order Linear Ordinary Differential Equations.md",
+    "Mathematics/Differential Equations/Non-Homogenous Second Order Linear Ordinary Differential Equations.md",
+    "1. Diary/2022-11-16.md",
     "1. Diary/2022-11-15.md",
     "0. Maps of Content/Mathematics MOC.md",
     "0. Maps of Content/Computer Science MOC.md",
