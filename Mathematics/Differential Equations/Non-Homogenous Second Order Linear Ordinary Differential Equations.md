@@ -9,7 +9,7 @@
 ---
 
 ### Objective
- 
+
 Find solutions to $ay'' + by' + cy = g(x)$ when $g(x) \neq 0$, which is the non-homogenous case of a second order linear differential equation. 
 
 ---
