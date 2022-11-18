@@ -9,7 +9,7 @@ Sample Editor Command**Monday Nov 14, 2022** #math #analysis
 ---
 
 ### Objective
-
+ 
 Find solutions to $ay'' + by' + cy = g(x)$ when $g(x) \neq 0$, which is the non-homogenous case of a second order linear differential equation. 
 
 ---
