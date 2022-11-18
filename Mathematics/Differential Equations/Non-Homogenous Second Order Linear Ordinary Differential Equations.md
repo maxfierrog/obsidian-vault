@@ -7,11 +7,11 @@ Sample Editor Command**Monday Nov 14, 2022** #math #analysis
 1. [[Homogenous Second Order Linear Ordinary Differential Equations]]
 
 ---
-
-### Objective
  
-Find solutions to $ay'' + by' + cy = g(x)$ when $g(x) \neq 0$, which is the non-homogenous case of a second order linear differential equation. 
+### Objective
 
+Find solutions to $ay'' + by' + cy = g(x)$ when $g(x) \neq 0$, which is the non-homogenous case of a second order linear differential equation. 
+  
 ---
 
 ### Associated Homogenous Problem
@@ -68,3 +68,5 @@ To find a particular solution to $ay'' + by' + cy = P_m(x)e^{kx}$, where $P_m(x)
 3. $s = 2$ if $k$ is a repeated solution to $ar^2 + br + c = 0$ 
 
 ... https://www.youtube.com/watch?v=8-i9DTFlmQc&t=2s&ab_channel=AlexanderPaulin
+
+
