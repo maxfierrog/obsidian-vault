@@ -1,5 +1,5 @@
-Sample Editor Command**Monday Nov 14, 2022** #math #analysis 
-
+**Monday Nov 14, 2022** #math #analysis 
+ 
 ---
 
 ### Requires
@@ -9,11 +9,11 @@ Sample Editor Command**Monday Nov 14, 2022** #math #analysis
 ---
  
 ### Objective
-
+ 
 Find solutions to $ay'' + by' + cy = g(x)$ when $g(x) \neq 0$, which is the non-homogenous case of a second order linear differential equation. 
-  
----
 
+---
+ 
 ### Associated Homogenous Problem
 
 Assume $y_p$ is a fixed particular solution to $ay_p'' + by_p' + cy_p = g(x)$. Assume $y$ is another such solution. It then follows that $ay'' + by' + c = g(x)$ and $ay_p'' + by_p' + c = g(x)$ by construction. We then consider $y_h = y - y_b$, which provides
