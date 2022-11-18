@@ -4,7 +4,7 @@
 
 ### Objective
 
-Find solutions to $ay'' + by' + cy = g(x)$. This is the form of a second order linear differential equation. It is homogenous in the case where $g(x)$ is the zero-function, which means we are finding solutions to $ay'' + by' + cy = 0$.
+Find solutions to $ay'' + by' + cy = g(x)$. This is the form of a second order linear differential equation. It is homogenous in the case where $g(x)$ is the zero-function, which means we are finding solutions to $ay'' + by' + cy = 0$.sdfsdf
 
 ---
 
