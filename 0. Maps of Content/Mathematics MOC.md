@@ -1,17 +1,16 @@
-#moc #math
-Tue Nov 15
+**Tuesday Nov 15, 2022** #moc #math
 
 ---
 
 ### Analysis
 
-Differential Calculus
+*Differential Calculus*
 
-Integral Calculus
+*Integral Calculus*
 
-Infinite Series
+*Infinite Series*
 
-Differential Equations
+*Differential Equations*
 - [[Homogenous Second Order Linear Ordinary Differential Equations]]
 - [[Non-Homogenous Second Order Linear Ordinary Differential Equations]]
 
@@ -19,13 +18,14 @@ Differential Equations
 
 ### Discrete Mathematics
 
-Introduction
+*Introduction*
 
-Graph Theory
+*Graph Theory*
 
-Modular Arithmetic
+*Modular Arithmetic*
 
 ---
 
 ### Probability Theory
 
+*Introduction*

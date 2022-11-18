@@ -1,5 +1,4 @@
-#math #analysis
-Mon Nov 14, 2022
+**Monday Nov 14, 2022** #math #analysis
 
 ---
 

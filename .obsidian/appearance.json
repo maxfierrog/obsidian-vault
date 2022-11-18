@@ -1,5 +1,9 @@
 {
   "accentColor": "#a76549",
   "cssTheme": "",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "nav-wrap",
+    "wrap_nav_titles"
+  ]
 }

@@ -1,5 +1,4 @@
-#math #analysis
-Mon Nov 14, 2022
+**Monday Nov 14, 2022** #math #analysis
 
 ---
 
@@ -25,7 +24,7 @@ Two functions, $f(x)$ and $g(x)$, are linearly independent only when $f(x) \neq 
 
 ### Lemma 1
 
-If $y_1, y_2$ are linearly independent solutions to $ay'' + by' + cy = g(x)$, then a general solution is $y(x) = c_1y_1(x) + c_2y_2(x)$.
+If $y_1, y_2$ are linearly independent solutions to $ay'' + by' + cy = 0$, then a general solution is $y(x) = c_1y_1(x) + c_2y_2(x)$.
 
 ##### Significance
 
@@ -49,10 +48,10 @@ When considering solutions of the form $y = e^{rx}$, can see that finding soluti
 
 ### Conclusion
 
-Homogenous second order differential equations of the form $ay'' + by' + cy = 0$ have solutions of the form $y(x) = c_1e^{r_1x} + c_2e^{r_2x}$, $c_1, c_2 \in \mathbb{R}$, when $r_1$ and $r_2$ are distinct real solutions to the quadratic equation  $ar^2 + br + c = 0$.
+To find solutions to homogenous second order differential equations of the form $ay'' + by' + cy = 0$ we consider the following cases:
 
-##### Other Cases
+1. If $ar^2 + br + c = 0$ has **two real solutions** $r_1$ and $r_2$, then a general solution to $ay'' + by' + cy = 0$ is $y(x) = c_1e^{r_1x} + c_2e^{r_2x}$, where $c_1, c_2 \in \mathbb{R}$.
 
-1. If $ar^2 + br + c = 0$ has a single real solution $r_1$, then a general solution to $ay'' + by' + cy = 0$ is $y(x) = c_1e^{r_1x} + c_2xe^{r_1x}$. 
+2. If $ar^2 + br + c = 0$ has **a single real solution** $r_1$, then a general solution to $ay'' + by' + cy = 0$ is $y(x) = c_1e^{r_1x} + c_2xe^{r_1x}$, where $c_1, c_2 \in \mathbb{R}$.
 
-2. If $ar^2 + br + c = 0$ has non-real solutions $a \pm bi$ (e.g. $a = 1$, $b = 0$, and $c = 1$), then a general solution to $ay'' + by' + cy = 0$ is $y(x) = c_1e^{ax}cos(bx) + c_2e^{ax}sin(bx)$. 
+3. If $ar^2 + br + c = 0$ has **non-real solutions** $a \pm bi$ (e.g. $a = 1$, $b = 0$, and $c = 1$), then a general solution to $ay'' + by' + cy = 0$ is $y(x) = c_1e^{ax}cos(bx) + c_2e^{ax}sin(bx)$, where $c_1, c_2 \in \mathbb{R}$.
