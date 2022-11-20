@@ -68,5 +68,3 @@ To find a particular solution to $ay'' + by' + cy = P_m(x)e^{kx}$, where $P_m(x)
 3. $s = 2$ if $k$ is a repeated solution to $ar^2 + br + c = 0$ 
 
 ... https://www.youtube.com/watch?v=8-i9DTFlmQc&t=2s&ab_channel=AlexanderPaulin
-
-
