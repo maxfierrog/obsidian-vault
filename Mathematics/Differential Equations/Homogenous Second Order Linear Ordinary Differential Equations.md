@@ -7,7 +7,7 @@
 Find solutions to $ay'' + by' + cy = g(x)$. This is the form of a second order linear differential equation. It is homogenous in the case where $g(x)$ is the zero-function, which means we are finding solutions to $ay'' + by' + cy = 0$. 
 
 ---
- 
+
 ### Linear Independence
 
 Two functions, $f(x)$ and $g(x)$, are linearly independent only when $f(x) \neq c_1 \cdot g(x) \wedge g(x) \neq c_2 \cdot f(x)$ for any $c_1, c_2$.    
@@ -19,7 +19,7 @@ Two functions, $f(x)$ and $g(x)$, are linearly independent only when $f(x) \neq 
 2. The function $f(x) = e^x$ is **linearly dependent** to $g(x) = e^{x + 1}$ because $e^x = e^1 \cdot e^x \implies e = c$.
 
 3. The functions $f(x) = e^{r_1x}$ and $g(x) = e^{r_2x}$ are **linearly independent** when $r_1 \neq r_2$ because, without loss of generality, $e^{r_1x} = c \cdot e^{r_2x} \implies c = e^{(r_1 - r_2)x}$, which is non-constant. ^fe2a2f
-
+ 
 ---
 
 ### Lemma 1
